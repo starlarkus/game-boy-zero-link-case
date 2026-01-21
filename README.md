@@ -1,4 +1,7 @@
 # game-boy-zero-link-case
+
+Modified files avalible to print without supports
+
 Simple case for game-boy-zero-link-cable
 The scale is 3:10 (0.3x) with exception of the model thinkness.
 
